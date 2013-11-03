@@ -6,8 +6,6 @@ public class Aluno {
 	private int matricula;
 	
 	
-	public Aluno() {
-		// TODO Auto-generated constructor stub
-	}
+	public Aluno() { }
 
 }

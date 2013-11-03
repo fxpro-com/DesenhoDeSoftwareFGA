@@ -8,8 +8,6 @@ public class Graduacao extends Aluno{
 	protected String curso;
 	
 	
-	public Graduacao() {
-		// TODO Auto-generated constructor stub
-	}
+	public Graduacao() { }
 
 }
