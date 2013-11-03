@@ -2,13 +2,10 @@ package padraoFabrica;
 
 public class Strada extends Utilitario {
 
-	/**
-	 * @param args
-	 * @return 
-	 */
-	public void Utilitario() {
-		// TODO Auto-generated method stub
-
+	public Strada() {
+		
+		capacidadeCarroceria = 50;
+		volumeCarroceria = 7;
 	}
 
 }
