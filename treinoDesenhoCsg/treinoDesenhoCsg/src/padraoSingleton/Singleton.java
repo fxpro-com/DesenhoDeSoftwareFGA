@@ -1,4 +1,4 @@
-package singleton;
+package padraoSingleton;
 
 public class Singleton {
 

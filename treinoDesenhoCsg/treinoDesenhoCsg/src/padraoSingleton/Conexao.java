@@ -1,4 +1,4 @@
-package singleton;
+package padraoSingleton;
 
 public class Conexao {
 
@@ -6,6 +6,7 @@ public class Conexao {
 	private static Conexao instancia;
 	
 	private Conexao(){}
+	
 	public Conexao(String address, String username, String password){
 		this.address = address;
 		this.username = username;
