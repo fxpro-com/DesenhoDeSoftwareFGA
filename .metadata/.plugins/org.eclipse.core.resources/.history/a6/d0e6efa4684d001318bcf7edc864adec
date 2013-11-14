@@ -1,0 +1,12 @@
+package metodoFabricaConcertado;
+
+import Aluno;
+
+
+public class PosGraduacao extends Aluno {
+
+	protected String projeto, nivel;
+	
+	public PosGraduacao() { }
+
+}
