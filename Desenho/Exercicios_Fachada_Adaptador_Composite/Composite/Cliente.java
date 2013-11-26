@@ -1,8 +1,8 @@
-package ExemploComposite;
+package Composite;
 
-import Composite.Componente;
-import Composite.Composto;
-import Composite.Folha;
+import ExemploComposite.Componente;
+import ExemploComposite.Composto;
+import ExemploComposite.Folha;
 
 public class Cliente {
 	

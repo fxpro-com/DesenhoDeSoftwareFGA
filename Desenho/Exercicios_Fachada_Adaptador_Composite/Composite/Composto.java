@@ -1,10 +1,10 @@
-package ExemploComposite;
+package Composite;
 
 import java.util.Enumeration;
 import java.util.Vector;
 
-import Composite.Componente;
-import Composite.Folha;
+import ExemploComposite.Componente;
+import ExemploComposite.Folha;
 
 public class Composto implements Componente{
 

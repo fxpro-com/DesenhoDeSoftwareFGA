@@ -1,7 +1,7 @@
-package ExemploComposite;
+package Composite;
 
-import Composite.Componente;
-import Composite.Folha;
+import ExemploComposite.Componente;
+import ExemploComposite.Folha;
 
 public interface Componente {
 	
