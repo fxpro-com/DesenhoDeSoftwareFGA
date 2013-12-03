@@ -1,8 +1,5 @@
 package metodoFabrica;
 
-
-
-
 public abstract class Aluno {
 
 	protected String nome;
@@ -26,7 +23,6 @@ public abstract class Aluno {
 				
 		}
 		return a;
-	}
-	
+	}	
 
 }

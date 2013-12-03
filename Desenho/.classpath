@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="FabricaAlemanhaBrasileira"/>
+	<classpathentry kind="src" path="FabricaAbstrataAlemanhaBrasileira"/>
 	<classpathentry kind="src" path="metodoFabrica"/>
-	<classpathentry kind="src" path="padraoFabrica"/>
+	<classpathentry kind="src" path="padraoFabricaAbstrata"/>
 	<classpathentry kind="src" path="padraoSingleton"/>
 	<classpathentry kind="src" path="PadraoComposite"/>
-	<classpathentry kind="src" path="Exercicios_Fachada_Adaptador_Composite"/>
-	<classpathentry kind="src" path="MateriaisTeoricos"/>
+	<classpathentry kind="src" path="padraoFachada"/>
 	<classpathentry kind="src" path="padraoTemplate"/>
+	<classpathentry kind="src" path="padraoAdaptador"/>
+	<classpathentry kind="src" path="_MateriaisTeoricos"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="C:/Users/cleitoncsg/Desktop/hamcrest-core-1.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/cleitoncsg/Desktop/junit-4.11.jar"/>
